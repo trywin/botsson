@@ -1,5 +1,0 @@
-{
-    "token": "discord token",
-    "mongodb": "mongodb uri",
-    "stockapi-key": "alphavantage api key"
-}
